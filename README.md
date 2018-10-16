@@ -1,8 +1,5 @@
 //# Ardunio-Grove
 //Temp&amp;Humidity
-// Example testing sketch for various DHT humidity/temperature sensors
-// Written by ladyada, public domain
-
 #include "DHT.h"
 
 #define DHTPIN 2     // what pin we're connected to
